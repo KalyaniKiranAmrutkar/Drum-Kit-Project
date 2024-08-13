@@ -18,5 +18,6 @@ CSS:-   Styled the drum pads and overall design for a visually appealing experie
 JavaScript:-  Implemented the functionality of playing drum sounds, handling user interactions, and adding animations.
 
 
+![Drum-Kit](https://github.com/user-attachments/assets/521b5510-9977-476d-b446-4b4613a5db22)
 
 
